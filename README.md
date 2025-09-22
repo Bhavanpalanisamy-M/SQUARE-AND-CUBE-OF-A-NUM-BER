@@ -29,7 +29,8 @@ MOVX @DPTR,A
 END
 ```
 ## OUTPUT
-<img width="1915" height="1070" alt="Screenshot 2025-09-16 094224" src="https://github.com/user-attachments/assets/47135c67-95b5-4fba-a38f-f0815c9eb37d" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-22 232505" src="https://github.com/user-attachments/assets/2f629b08-e6fc-4d4d-ae02-25a5254c1d15" />
+
 <img width="688" height="370" alt="Screenshot 2025-09-22 232547" src="https://github.com/user-attachments/assets/0527c450-abf6-4e4f-9e2a-e76d9c7fdbab" />
 
 
